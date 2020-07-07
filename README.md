@@ -1,16 +1,14 @@
-### Hi there 👋
+# Yuri Reis #BlackLivesMatter
+Hello everyone! I'm a Brazilian fullstack developer. Currently I live in Florianólis, SC. 🙌 Aside programming, I like a lot to play videogames (mainly strategy and fighting ones) and guitar. :neckbeard:
 
-<!--
-**yurireeis/yurireeis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My values
+:100: Safety and trust<br>
+:mortar_board: Shared Knowledge<br>
+:telescope: Beginner's mindset and curiosity<br>
+:ballot_box_with_check: Challenge oriented
 
-Here are some ideas to get you started:
+## How I work
+My motivations are to make a job that at the end users really cares about and positively impact other people's live. :rocket:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Get in touch
+- LinkedIn: https://www.linkedin.com/in/yurireis
