@@ -1,7 +1,7 @@
 # Yuri Reis #BlackLivesMatter
 Hello everyone! I'm a Brazilian fullstack developer. Currently I live in Florianólis, SC. 🙌 Aside programming, I like a lot to play videogames (mainly strategy and fighting ones) and guitar. :neckbeard:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yurireeis)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yurireeis&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My values
 :100: Safety and trust<br>
